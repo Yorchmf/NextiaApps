@@ -1,0 +1,94 @@
+{
+  "nav": {
+    "home": "Inicio"
+  },
+  "hero": {
+    "title": "Nuestras Apps",
+    "subtitle": "Diseñadas con cuidado para facilitar tu vida"
+  },
+  "apps": {
+    "chaincheck": {
+      "name": "ChainCheck",
+      "tagline": "Mantenimiento inteligente y seguimiento de rutas en bici",
+      "description": "ChainCheck es tu compañero ciclista todo en uno. Registra tus rutas con GPS, monitorea el desgaste de los componentes y mantén tu bici en perfectas condiciones con recordatorios de mantenimiento inteligentes basados en datos reales de sensores.",
+      "features_title": "Características",
+      "features": {
+        "ride_tracking": "Seguimiento GPS de rutas con grabación detallada del recorrido",
+        "garage": "Gestiona varias bicicletas en tu garaje digital",
+        "components": "Controla el desgaste y los calendarios de reemplazo de componentes",
+        "analytics": "Análisis de rutas — distancia, velocidad, elevación y tendencias",
+        "maintenance": "Alertas de mantenimiento inteligentes usando datos de giroscopio y acelerómetro",
+        "weather": "Registro de clima y condiciones del camino"
+      },
+      "download_android_small": "DISPONIBLE EN",
+      "download_android_main": "Google Play",
+      "download_ios_small": "Descárgalo en el",
+      "download_ios_main": "App Store",
+      "coming_soon": "Próximamente",
+      "privacy_link": "Política de Privacidad"
+    }
+  },
+  "footer": {
+    "copyright": "© {year} Nextia. Todos los derechos reservados."
+  },
+  "back_home": "← Volver a todas las apps",
+  "privacy": {
+    "title": "Política de Privacidad — ChainCheck",
+    "effective_date": "Fecha de vigencia: 11 de marzo de 2026",
+    "intro": {
+      "title": "Introducción",
+      "text": "Nextia (\"nosotros\" o \"nuestro\") desarrolló ChainCheck como una aplicación móvil. Esta Política de Privacidad explica cómo gestionamos la información cuando utilizas nuestra app. Estamos comprometidos con la protección de tu privacidad — <strong>no recopilamos, almacenamos ni transmitimos tus datos personales a nuestros servidores</strong>."
+    },
+    "data_collected": {
+      "title": "Información que usa la App",
+      "text": "ChainCheck accede a ciertos datos del dispositivo únicamente para ofrecer sus funciones principales. Todos estos datos permanecen en tu dispositivo:",
+      "location_title": "<strong>Datos de ubicación (GPS)</strong>",
+      "location_text": "Se utilizan para registrar tus rutas en bicicleta y grabar recorridos GPS. Los datos de ubicación se procesan completamente en tu dispositivo y nunca se envían a nuestros servidores ni a terceros.",
+      "sensors_title": "<strong>Giroscopio y acelerómetro</strong>",
+      "sensors_text": "Se utilizan para detectar patrones de ciclismo y determinar cuándo puede ser necesario el mantenimiento de la bicicleta. Estos datos de sensores se procesan localmente en tu dispositivo y nunca se transmiten externamente.",
+      "purchases_title": "<strong>Información de compras</strong>",
+      "purchases_text": "Si realizas compras dentro de la app, la transacción es procesada por Apple (App Store) o Google (Google Play) y por nuestro socio de pagos RevenueCat. No tenemos acceso a tus datos de pago. RevenueCat puede procesar un identificador anónimo de usuario para gestionar tu suscripción. Consulta la <a href=\"https://www.revenuecat.com/privacy/\" target=\"_blank\" rel=\"noopener\">Política de Privacidad de RevenueCat</a>."
+    },
+    "data_not_collected": {
+      "title": "Información que NO recopilamos",
+      "text": "Queremos ser claros sobre lo que no hacemos:",
+      "items": {
+        "no_personal": "No recopilamos nombres, direcciones de correo electrónico ni ningún identificador personal",
+        "no_location_server": "No enviamos tus datos de ubicación a ningún servidor",
+        "no_sensor_server": "No transmitimos datos de sensores (giroscopio, acelerómetro) a ningún lugar",
+        "no_analytics": "No utilizamos SDKs de análisis o publicidad de terceros que te rastreen",
+        "no_sell": "No vendemos, alquilamos ni compartimos ningún dato de usuario"
+      }
+    },
+    "data_storage": {
+      "title": "Almacenamiento y eliminación de datos",
+      "text": "Todos tus datos de rutas, información de bicicletas y ajustes de la app se almacenan localmente en tu dispositivo. Tienes control total sobre tus datos:",
+      "items": {
+        "delete_app": "Elimina cualquier ruta, bicicleta o dato de componente dentro de la app en cualquier momento",
+        "uninstall": "Desinstala la app para eliminar todos los datos asociados de tu dispositivo",
+        "no_cloud": "No mantenemos ninguna copia de seguridad en la nube de tus datos"
+      }
+    },
+    "third_party": {
+      "title": "Servicios de terceros",
+      "text": "ChainCheck utiliza los siguientes servicios de terceros:",
+      "items": {
+        "revenuecat": "<strong>RevenueCat</strong> — gestiona las suscripciones y compras dentro de la app. Procesa datos de transacciones de forma anónima. <a href=\"https://www.revenuecat.com/privacy/\" target=\"_blank\" rel=\"noopener\">Política de Privacidad</a>",
+        "apple": "<strong>Apple App Store / Google Play Store</strong> — se encarga de la distribución de la app y el procesamiento de pagos de acuerdo con sus propias políticas de privacidad"
+      }
+    },
+    "children": {
+      "title": "Privacidad de los menores",
+      "text": "ChainCheck no está dirigido a menores de 13 años. No recopilamos conscientemente ninguna información de menores. Dado que no se recopilan datos personales de ningún usuario, no existe riesgo de que los datos de menores se vean comprometidos."
+    },
+    "changes": {
+      "title": "Cambios en esta política",
+      "text": "Podemos actualizar esta Política de Privacidad de vez en cuando. Cualquier cambio será publicado en esta página con una fecha de vigencia actualizada. Te recomendamos revisar esta página periódicamente."
+    },
+    "contact": {
+      "title": "Contáctanos",
+      "text": "Si tienes preguntas o inquietudes sobre esta Política de Privacidad, por favor contáctanos en:",
+      "email": "privacy@nextia.nl"
+    }
+  }
+}

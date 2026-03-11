@@ -1,0 +1,94 @@
+{
+  "nav": {
+    "home": "Home"
+  },
+  "hero": {
+    "title": "Onze Apps",
+    "subtitle": "Met zorg gemaakt om je leven makkelijker te maken"
+  },
+  "apps": {
+    "chaincheck": {
+      "name": "ChainCheck",
+      "tagline": "Slim fietsonderhoud & ritregistratie",
+      "description": "ChainCheck is je alles-in-één fietsmaatje. Volg je ritten met GPS, houd de slijtage van onderdelen bij en houd je fiets in topconditie met slimme onderhoudsmeldingen op basis van echte sensorgegevens.",
+      "features_title": "Functies",
+      "features": {
+        "ride_tracking": "GPS-ritregistratie met gedetailleerde routeopname",
+        "garage": "Beheer meerdere fietsen in je digitale garage",
+        "components": "Houd slijtage van onderdelen en vervangingsschema's bij",
+        "analytics": "Ritanalyse — afstand, snelheid, hoogte en trends",
+        "maintenance": "Slimme onderhoudsmeldingen op basis van gyroscoop- en versnellingsmeterdata",
+        "weather": "Registratie van weer- en wegomstandigheden"
+      },
+      "download_android_small": "ONTDEK HET OP",
+      "download_android_main": "Google Play",
+      "download_ios_small": "Download in de",
+      "download_ios_main": "App Store",
+      "coming_soon": "Binnenkort beschikbaar",
+      "privacy_link": "Privacybeleid"
+    }
+  },
+  "footer": {
+    "copyright": "© {year} Nextia. Alle rechten voorbehouden."
+  },
+  "back_home": "← Terug naar alle apps",
+  "privacy": {
+    "title": "Privacybeleid — ChainCheck",
+    "effective_date": "Ingangsdatum: 11 maart 2026",
+    "intro": {
+      "title": "Inleiding",
+      "text": "Nextia (\"wij\" of \"ons\") heeft ChainCheck ontwikkeld als mobiele applicatie. Dit Privacybeleid legt uit hoe wij omgaan met informatie wanneer je onze app gebruikt. Wij zetten ons in voor de bescherming van je privacy — <strong>wij verzamelen, bewaren noch versturen je persoonlijke gegevens naar onze servers</strong>."
+    },
+    "data_collected": {
+      "title": "Informatie die de app gebruikt",
+      "text": "ChainCheck heeft toegang tot bepaalde apparaatgegevens uitsluitend om de kernfuncties te bieden. Al deze gegevens blijven op je apparaat:",
+      "location_title": "<strong>Locatiegegevens (GPS)</strong>",
+      "location_text": "Worden gebruikt om je fietsritten te volgen en GPS-routes vast te leggen. Locatiegegevens worden volledig op je apparaat verwerkt en worden nooit naar onze servers of derden verzonden.",
+      "sensors_title": "<strong>Gyroscoop &amp; Versnellingsmeter</strong>",
+      "sensors_text": "Worden gebruikt om fietspatronen te detecteren en te bepalen wanneer fietsonderhoud nodig kan zijn. Deze sensorgegevens worden lokaal op je apparaat verwerkt en worden nooit extern verzonden.",
+      "purchases_title": "<strong>Aankoopinformatie</strong>",
+      "purchases_text": "Als je in-app-aankopen doet, wordt de transactie verwerkt door Apple (App Store) of Google (Google Play) en door onze betalingspartner RevenueCat. Wij hebben geen toegang tot je betalingsgegevens. RevenueCat kan een anoniem app-gebruikers-ID verwerken om je abonnement te beheren. Zie het <a href=\"https://www.revenuecat.com/privacy/\" target=\"_blank\" rel=\"noopener\">Privacybeleid van RevenueCat</a>."
+    },
+    "data_not_collected": {
+      "title": "Informatie die wij NIET verzamelen",
+      "text": "We willen duidelijk zijn over wat we niet doen:",
+      "items": {
+        "no_personal": "Wij verzamelen geen namen, e-mailadressen of andere persoonlijke identificatiegegevens",
+        "no_location_server": "Wij sturen je locatiegegevens niet naar enige server",
+        "no_sensor_server": "Wij versturen geen sensorgegevens (gyroscoop, versnellingsmeter) naar welke plek dan ook",
+        "no_analytics": "Wij gebruiken geen analyse- of reclame-SDK's van derden die je volgen",
+        "no_sell": "Wij verkopen, verhuren of delen geen enkele gebruikersgegevens"
+      }
+    },
+    "data_storage": {
+      "title": "Gegevensopslag &amp; verwijdering",
+      "text": "Al je ritgegevens, fietsinformatie en app-instellingen worden lokaal op je apparaat opgeslagen. Je hebt volledige controle over je gegevens:",
+      "items": {
+        "delete_app": "Verwijder op elk moment ritten, fietsen of onderdeelgegevens binnen de app",
+        "uninstall": "Verwijder de app om alle bijbehorende gegevens van je apparaat te wissen",
+        "no_cloud": "Wij bewaren geen cloudback-up van je gegevens"
+      }
+    },
+    "third_party": {
+      "title": "Diensten van derden",
+      "text": "ChainCheck maakt gebruik van de volgende diensten van derden:",
+      "items": {
+        "revenuecat": "<strong>RevenueCat</strong> — beheert in-app-abonnementen en -aankopen. Verwerkt anonieme transactiegegevens. <a href=\"https://www.revenuecat.com/privacy/\" target=\"_blank\" rel=\"noopener\">Privacybeleid</a>",
+        "apple": "<strong>Apple App Store / Google Play Store</strong> — verzorgt de distributie van de app en betalingsverwerking volgens hun eigen privacybeleid"
+      }
+    },
+    "children": {
+      "title": "Privacy van kinderen",
+      "text": "ChainCheck is niet gericht op kinderen jonger dan 13 jaar. Wij verzamelen bewust geen informatie van kinderen. Aangezien er geen persoonlijke gegevens van gebruikers worden verzameld, is er geen risico dat gegevens van kinderen worden gecompromitteerd."
+    },
+    "changes": {
+      "title": "Wijzigingen in dit beleid",
+      "text": "Wij kunnen dit Privacybeleid van tijd tot tijd bijwerken. Eventuele wijzigingen worden op deze pagina gepubliceerd met een bijgewerkte ingangsdatum. Wij raden je aan deze pagina regelmatig te raadplegen."
+    },
+    "contact": {
+      "title": "Contact",
+      "text": "Als je vragen of opmerkingen hebt over dit Privacybeleid, neem dan contact met ons op via:",
+      "email": "privacy@nextia.nl"
+    }
+  }
+}

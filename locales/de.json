@@ -1,0 +1,94 @@
+{
+  "nav": {
+    "home": "Startseite"
+  },
+  "hero": {
+    "title": "Unsere Apps",
+    "subtitle": "Mit Sorgfalt entwickelt, um Ihnen den Alltag zu erleichtern"
+  },
+  "apps": {
+    "chaincheck": {
+      "name": "ChainCheck",
+      "tagline": "Intelligente Fahrradwartung & Routenverfolgung",
+      "description": "ChainCheck ist Ihr All-in-One-Begleiter fürs Radfahren. Zeichnen Sie Ihre Fahrten per GPS auf, überwachen Sie den Verschleiß von Komponenten und halten Sie Ihr Fahrrad mit intelligenten Wartungserinnerungen auf Basis echter Sensordaten in Topform.",
+      "features_title": "Funktionen",
+      "features": {
+        "ride_tracking": "GPS-Routenverfolgung mit detaillierter Streckenaufzeichnung",
+        "garage": "Verwalten Sie mehrere Fahrräder in Ihrer digitalen Garage",
+        "components": "Verfolgen Sie den Komponentenverschleiß und Austauschpläne",
+        "analytics": "Fahrtenanalyse — Distanz, Geschwindigkeit, Höhenmeter und Trends",
+        "maintenance": "Intelligente Wartungshinweise basierend auf Gyroskop- und Beschleunigungssensordaten",
+        "weather": "Aufzeichnung von Wetter- und Straßenbedingungen"
+      },
+      "download_android_small": "JETZT BEI",
+      "download_android_main": "Google Play",
+      "download_ios_small": "Laden im",
+      "download_ios_main": "App Store",
+      "coming_soon": "Demnächst verfügbar",
+      "privacy_link": "Datenschutzrichtlinie"
+    }
+  },
+  "footer": {
+    "copyright": "© {year} Nextia. Alle Rechte vorbehalten."
+  },
+  "back_home": "← Zurück zu allen Apps",
+  "privacy": {
+    "title": "Datenschutzrichtlinie — ChainCheck",
+    "effective_date": "Gültig ab: 11. März 2026",
+    "intro": {
+      "title": "Einleitung",
+      "text": "Nextia (\u201Ewir\u201C oder \u201Eunser\u201C) hat ChainCheck als mobile Anwendung entwickelt. Diese Datenschutzrichtlinie erläutert, wie wir mit Informationen umgehen, wenn Sie unsere App nutzen. Wir verpflichten uns zum Schutz Ihrer Privatsphäre — <strong>wir erheben, speichern oder übermitteln keine Ihrer persönlichen Daten an unsere Server</strong>."
+    },
+    "data_collected": {
+      "title": "Von der App genutzte Informationen",
+      "text": "ChainCheck greift auf bestimmte Gerätedaten ausschließlich zur Bereitstellung der Kernfunktionen zu. Alle diese Daten verbleiben auf Ihrem Gerät:",
+      "location_title": "<strong>Standortdaten (GPS)</strong>",
+      "location_text": "Werden verwendet, um Ihre Radtouren zu verfolgen und GPS-Routen aufzuzeichnen. Standortdaten werden vollständig auf Ihrem Gerät verarbeitet und niemals an unsere Server oder Dritte gesendet.",
+      "sensors_title": "<strong>Gyroskop &amp; Beschleunigungssensor</strong>",
+      "sensors_text": "Werden verwendet, um Radfahrmuster zu erkennen und festzustellen, wann eine Fahrradwartung erforderlich sein könnte. Diese Sensordaten werden lokal auf Ihrem Gerät verarbeitet und niemals extern übertragen.",
+      "purchases_title": "<strong>Kaufinformationen</strong>",
+      "purchases_text": "Wenn Sie In-App-Käufe tätigen, wird die Transaktion von Apple (App Store) oder Google (Google Play) und unserem Zahlungspartner RevenueCat abgewickelt. Wir haben keinen Zugriff auf Ihre Zahlungsdaten. RevenueCat kann eine anonyme App-Benutzer-ID zur Verwaltung Ihres Abonnements verarbeiten. Siehe <a href=\"https://www.revenuecat.com/privacy/\" target=\"_blank\" rel=\"noopener\">Datenschutzrichtlinie von RevenueCat</a>."
+    },
+    "data_not_collected": {
+      "title": "Informationen, die wir NICHT erheben",
+      "text": "Wir möchten klar darlegen, was wir nicht tun:",
+      "items": {
+        "no_personal": "Wir erheben keine Namen, E-Mail-Adressen oder sonstige persönliche Identifikatoren",
+        "no_location_server": "Wir senden Ihre Standortdaten an keinen Server",
+        "no_sensor_server": "Wir übermitteln keine Sensordaten (Gyroskop, Beschleunigungssensor) an Dritte",
+        "no_analytics": "Wir verwenden keine Analyse- oder Werbe-SDKs von Drittanbietern, die Sie verfolgen",
+        "no_sell": "Wir verkaufen, vermieten oder teilen keinerlei Nutzerdaten"
+      }
+    },
+    "data_storage": {
+      "title": "Datenspeicherung &amp; Löschung",
+      "text": "Alle Ihre Fahrtdaten, Fahrradinformationen und App-Einstellungen werden lokal auf Ihrem Gerät gespeichert. Sie haben die volle Kontrolle über Ihre Daten:",
+      "items": {
+        "delete_app": "Löschen Sie jederzeit beliebige Fahrten, Fahrräder oder Komponentendaten in der App",
+        "uninstall": "Deinstallieren Sie die App, um alle zugehörigen Daten von Ihrem Gerät zu entfernen",
+        "no_cloud": "Wir unterhalten kein Cloud-Backup Ihrer Daten"
+      }
+    },
+    "third_party": {
+      "title": "Drittanbieterdienste",
+      "text": "ChainCheck nutzt die folgenden Drittanbieterdienste:",
+      "items": {
+        "revenuecat": "<strong>RevenueCat</strong> — verwaltet In-App-Abonnements und -Käufe. Verarbeitet anonyme Transaktionsdaten. <a href=\"https://www.revenuecat.com/privacy/\" target=\"_blank\" rel=\"noopener\">Datenschutzrichtlinie</a>",
+        "apple": "<strong>Apple App Store / Google Play Store</strong> — übernimmt die App-Verteilung und Zahlungsabwicklung gemäß den eigenen Datenschutzrichtlinien"
+      }
+    },
+    "children": {
+      "title": "Datenschutz für Kinder",
+      "text": "ChainCheck richtet sich nicht an Kinder unter 13 Jahren. Wir erheben wissentlich keine Informationen von Kindern. Da von keinem Nutzer personenbezogene Daten erhoben werden, besteht kein Risiko, dass Daten von Kindern gefährdet werden."
+    },
+    "changes": {
+      "title": "Änderungen dieser Richtlinie",
+      "text": "Wir können diese Datenschutzrichtlinie von Zeit zu Zeit aktualisieren. Alle Änderungen werden auf dieser Seite mit einem aktualisierten Gültigkeitsdatum veröffentlicht. Wir empfehlen Ihnen, diese Seite regelmäßig zu überprüfen."
+    },
+    "contact": {
+      "title": "Kontakt",
+      "text": "Wenn Sie Fragen oder Bedenken zu dieser Datenschutzrichtlinie haben, kontaktieren Sie uns bitte unter:",
+      "email": "privacy@nextia.nl"
+    }
+  }
+}

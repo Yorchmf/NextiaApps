@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Nextia — Our Apps</title>
+  <meta name="description" content="Discover apps crafted by Nextia — smart tools built with care." />
+  <link rel="icon" href="images/chaincheck/icon.png" type="image/png" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <a href="/" class="site-logo">Nextia</a>
+      <div class="lang-selector">
+        <select id="lang-select" aria-label="Language">
+          <option value="en">English</option>
+          <option value="es">Español</option>
+          <option value="fr">Français</option>
+          <option value="de">Deutsch</option>
+          <option value="it">Italiano</option>
+          <option value="pt">Português</option>
+          <option value="nl">Nederlands</option>
+          <option value="pl">Polski</option>
+          <option value="sv">Svenska</option>
+          <option value="da">Dansk</option>
+          <option value="no">Norsk</option>
+          <option value="fi">Suomi</option>
+        </select>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="container">
+        <h1 data-i18n="hero.title">Our Apps</h1>
+        <p data-i18n="hero.subtitle">Crafted with care to make your life easier</p>
+      </div>
+    </section>
+
+    <section class="container">
+      <div class="app-grid">
+        <a href="chaincheck/" class="app-card">
+          <img src="images/chaincheck/icon.png" alt="ChainCheck" class="app-card__icon" />
+          <h2 class="app-card__name" data-i18n="apps.chaincheck.name">ChainCheck</h2>
+          <p class="app-card__tagline" data-i18n="apps.chaincheck.tagline">Smart bike maintenance & ride tracking</p>
+        </a>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>© <span id="current-year"></span> Nextia. All rights reserved.</p>
+    </div>
+  </footer>
+
+  <script src="js/i18n.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

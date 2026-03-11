@@ -1,0 +1,94 @@
+{
+  "nav": {
+    "home": "Etusivu"
+  },
+  "hero": {
+    "title": "Sovelluksemme",
+    "subtitle": "Huolella suunniteltu helpottamaan arkeasi"
+  },
+  "apps": {
+    "chaincheck": {
+      "name": "ChainCheck",
+      "tagline": "Älykäs pyörän huolto & ajon seuranta",
+      "description": "ChainCheck on all-in-one-pyöräilykumppanisi. Seuraa ajojasi GPS:llä, tarkkaile osien kulumista ja pidä pyöräsi huippukunnossa älykkäillä huoltomuistutuksilla, jotka perustuvat todelliseen anturidataan.",
+      "features_title": "Ominaisuudet",
+      "features": {
+        "ride_tracking": "GPS-ajon seuranta yksityiskohtaisella reitintallenteella",
+        "garage": "Hallitse useita pyöriä digitaalisessa tallissasi",
+        "components": "Seuraa osien kulumista ja vaihtoaikatauluja",
+        "analytics": "Ajoanalytiikka — matka, nopeus, nousumetrit ja trendit",
+        "maintenance": "Älykkäät huoltohälytykset gyroskooppi- ja kiihtyvyysanturidatan perusteella",
+        "weather": "Sää- ja tieolosuhteiden kirjaus"
+      },
+      "download_android_small": "HANKI SE",
+      "download_android_main": "Google Play",
+      "download_ios_small": "Lataa",
+      "download_ios_main": "App Store",
+      "coming_soon": "Tulossa pian",
+      "privacy_link": "Tietosuojakäytäntö"
+    }
+  },
+  "footer": {
+    "copyright": "© {year} Nextia. Kaikki oikeudet pidätetään."
+  },
+  "back_home": "← Takaisin kaikkiin sovelluksiin",
+  "privacy": {
+    "title": "Tietosuojakäytäntö — ChainCheck",
+    "effective_date": "Voimaantulopäivä: 11. maaliskuuta 2026",
+    "intro": {
+      "title": "Johdanto",
+      "text": "Nextia (\"me\" tai \"meidän\") on kehittänyt ChainCheck-mobiilisovelluksen. Tämä Tietosuojakäytäntö selittää, miten käsittelemme tietoja, kun käytät sovellustamme. Olemme sitoutuneet suojaamaan yksityisyyttäsi — <strong>emme kerää, tallenna tai siirrä henkilötietojasi palvelimillemme</strong>."
+    },
+    "data_collected": {
+      "title": "Sovelluksen käyttämät tiedot",
+      "text": "ChainCheck käyttää tiettyjä laitteen tietoja ainoastaan ydintoimintojensa tarjoamiseen. Kaikki nämä tiedot pysyvät laitteellasi:",
+      "location_title": "<strong>Sijaintitiedot (GPS)</strong>",
+      "location_text": "Käytetään pyöräilyajojen seurantaan ja GPS-reittien tallentamiseen. Sijaintitiedot käsitellään kokonaan laitteellasi eikä niitä koskaan lähetetä palvelimillemme tai kolmansille osapuolille.",
+      "sensors_title": "<strong>Gyroskooppi &amp; Kiihtyvyysanturi</strong>",
+      "sensors_text": "Käytetään pyöräilykuvioiden tunnistamiseen ja sen määrittämiseen, milloin pyörän huolto saattaa olla tarpeen. Nämä anturitiedot käsitellään paikallisesti laitteellasi eikä niitä koskaan siirretä ulkopuolelle.",
+      "purchases_title": "<strong>Ostotiedot</strong>",
+      "purchases_text": "Jos teet sovelluksen sisäisiä ostoksia, tapahtuman käsittelee Apple (App Store) tai Google (Google Play) sekä maksukumppanimme RevenueCat. Meillä ei ole pääsyä maksutietoihisi. RevenueCat voi käsitellä anonyymin sovelluksen käyttäjätunnuksen tilauksesi hallintaa varten. Katso <a href=\"https://www.revenuecat.com/privacy/\" target=\"_blank\" rel=\"noopener\">RevenueCatin tietosuojakäytäntö</a>."
+    },
+    "data_not_collected": {
+      "title": "Tiedot, joita EMME kerää",
+      "text": "Haluamme olla selkeitä siitä, mitä emme tee:",
+      "items": {
+        "no_personal": "Emme kerää nimiä, sähköpostiosoitteita tai mitään henkilökohtaisia tunnisteita",
+        "no_location_server": "Emme lähetä sijaintitietojasi millekään palvelimelle",
+        "no_sensor_server": "Emme siirrä anturitietoja (gyroskooppi, kiihtyvyysanturi) minnekään",
+        "no_analytics": "Emme käytä kolmannen osapuolen analytiikka- tai mainonta-SDK:ita, jotka seuraavat sinua",
+        "no_sell": "Emme myy, vuokraa tai jaa mitään käyttäjätietoja"
+      }
+    },
+    "data_storage": {
+      "title": "Tietojen tallennus &amp; poistaminen",
+      "text": "Kaikki ajotietosi, pyörätietosi ja sovelluksen asetukset tallennetaan paikallisesti laitteellesi. Sinulla on täysi hallinta tietoihisi:",
+      "items": {
+        "delete_app": "Poista mikä tahansa ajo, pyörä tai komponenttitieto sovelluksesta milloin tahansa",
+        "uninstall": "Poista sovellus poistaaksesi kaikki siihen liittyvät tiedot laitteeltasi",
+        "no_cloud": "Emme ylläpidä mitään pilvivarmistusta tiedoistasi"
+      }
+    },
+    "third_party": {
+      "title": "Kolmannen osapuolen palvelut",
+      "text": "ChainCheck käyttää seuraavia kolmannen osapuolen palveluita:",
+      "items": {
+        "revenuecat": "<strong>RevenueCat</strong> — hallitsee sovelluksen sisäisiä tilauksia ja ostoksia. Käsittelee anonyymiä tapahtumatietoa. <a href=\"https://www.revenuecat.com/privacy/\" target=\"_blank\" rel=\"noopener\">Tietosuojakäytäntö</a>",
+        "apple": "<strong>Apple App Store / Google Play Store</strong> — hoitaa sovelluksen jakelun ja maksujen käsittelyn omien tietosuojakäytäntöjensä mukaisesti"
+      }
+    },
+    "children": {
+      "title": "Lasten tietosuoja",
+      "text": "ChainCheck ei ole suunnattu alle 13-vuotiaille lapsille. Emme tietoisesti kerää mitään tietoja lapsilta. Koska keneltäkään käyttäjältä ei kerätä henkilötietoja, lasten tietojen vaarantumiselle ei ole riskiä."
+    },
+    "changes": {
+      "title": "Muutokset tähän käytäntöön",
+      "text": "Saatamme päivittää tätä Tietosuojakäytäntöä aika ajoin. Mahdolliset muutokset julkaistaan tällä sivulla päivitetyllä voimaantulopäivämäärällä. Suosittelemme tarkistamaan tämän sivun säännöllisesti."
+    },
+    "contact": {
+      "title": "Ota yhteyttä",
+      "text": "Jos sinulla on kysyttävää tai huolenaiheita tästä Tietosuojakäytännöstä, ota meihin yhteyttä osoitteessa:",
+      "email": "privacy@nextia.nl"
+    }
+  }
+}

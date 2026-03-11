@@ -1,0 +1,94 @@
+{
+  "nav": {
+    "home": "Hjem"
+  },
+  "hero": {
+    "title": "Vores apps",
+    "subtitle": "Skabt med omhu for at gøre din hverdag nemmere"
+  },
+  "apps": {
+    "chaincheck": {
+      "name": "ChainCheck",
+      "tagline": "Smart cykelvedligeholdelse & turregistrering",
+      "description": "ChainCheck er din alt-i-én cykelkammerat. Spor dine ture med GPS, overvåg slid på komponenter, og hold din cykel i topform med smarte vedligeholdelsespåmindelser baseret på rigtige sensordata.",
+      "features_title": "Funktioner",
+      "features": {
+        "ride_tracking": "GPS-turregistrering med detaljeret ruteoptagelse",
+        "garage": "Administrer flere cykler i din digitale garage",
+        "components": "Følg komponentslid og udskiftningsplaner",
+        "analytics": "Turanalyse — distance, hastighed, stigning og tendenser",
+        "maintenance": "Smarte vedligeholdelsesadvarsler baseret på gyroskop- og accelerometerdata",
+        "weather": "Registrering af vejr- og vejforhold"
+      },
+      "download_android_small": "HENT DEN PÅ",
+      "download_android_main": "Google Play",
+      "download_ios_small": "Hent den i",
+      "download_ios_main": "App Store",
+      "coming_soon": "Kommer snart",
+      "privacy_link": "Privatlivspolitik"
+    }
+  },
+  "footer": {
+    "copyright": "© {year} Nextia. Alle rettigheder forbeholdes."
+  },
+  "back_home": "← Tilbage til alle apps",
+  "privacy": {
+    "title": "Privatlivspolitik — ChainCheck",
+    "effective_date": "Ikrafttrædelsesdato: 11. marts 2026",
+    "intro": {
+      "title": "Introduktion",
+      "text": "Nextia (\"vi\" eller \"vores\") har udviklet ChainCheck som en mobilapplikation. Denne Privatlivspolitik forklarer, hvordan vi håndterer information, når du bruger vores app. Vi er forpligtet til at beskytte dit privatliv — <strong>vi indsamler, lagrer eller overfører ikke dine personlige data til vores servere</strong>."
+    },
+    "data_collected": {
+      "title": "Information appen bruger",
+      "text": "ChainCheck tilgår visse enhedsdata udelukkende for at levere sine kernefunktioner. Alle disse data forbliver på din enhed:",
+      "location_title": "<strong>Placeringsdata (GPS)</strong>",
+      "location_text": "Bruges til at spore dine cykelture og registrere GPS-ruter. Placeringsdata behandles udelukkende på din enhed og sendes aldrig til vores servere eller tredjeparter.",
+      "sensors_title": "<strong>Gyroskop &amp; Accelerometer</strong>",
+      "sensors_text": "Bruges til at registrere cykelmønstre og afgøre, hvornår cykelvedligeholdelse kan være nødvendig. Disse sensordata behandles lokalt på din enhed og overføres aldrig eksternt.",
+      "purchases_title": "<strong>Købsinformation</strong>",
+      "purchases_text": "Hvis du foretager køb i appen, behandles transaktionen af Apple (App Store) eller Google (Google Play) og af vores betalingspartner RevenueCat. Vi har ikke adgang til dine betalingsoplysninger. RevenueCat kan behandle et anonymt app-bruger-ID for at administrere dit abonnement. Se <a href=\"https://www.revenuecat.com/privacy/\" target=\"_blank\" rel=\"noopener\">RevenueCats privatlivspolitik</a>."
+    },
+    "data_not_collected": {
+      "title": "Information vi IKKE indsamler",
+      "text": "Vi ønsker at være tydelige om, hvad vi ikke gør:",
+      "items": {
+        "no_personal": "Vi indsamler ikke navne, e-mailadresser eller nogen personlige identifikatorer",
+        "no_location_server": "Vi sender ikke dine placeringsdata til nogen server",
+        "no_sensor_server": "Vi overfører ikke sensordata (gyroskop, accelerometer) nogen steder hen",
+        "no_analytics": "Vi bruger ikke tredjeparts analyse- eller reklame-SDK'er, der sporer dig",
+        "no_sell": "Vi sælger, udlejer eller deler ikke nogen brugerdata"
+      }
+    },
+    "data_storage": {
+      "title": "Datalagring &amp; sletning",
+      "text": "Alle dine turdata, cykelinformation og appindstillinger lagres lokalt på din enhed. Du har fuld kontrol over dine data:",
+      "items": {
+        "delete_app": "Slet enhver tur, cykel eller komponentdata i appen når som helst",
+        "uninstall": "Afinstaller appen for at fjerne alle tilknyttede data fra din enhed",
+        "no_cloud": "Vi opbevarer ingen cloud-backup af dine data"
+      }
+    },
+    "third_party": {
+      "title": "Tredjepartstjenester",
+      "text": "ChainCheck bruger følgende tredjepartstjenester:",
+      "items": {
+        "revenuecat": "<strong>RevenueCat</strong> — administrerer abonnementer og køb i appen. Behandler anonyme transaktionsdata. <a href=\"https://www.revenuecat.com/privacy/\" target=\"_blank\" rel=\"noopener\">Privatlivspolitik</a>",
+        "apple": "<strong>Apple App Store / Google Play Store</strong> — håndterer app-distribution og betalingsbehandling i henhold til deres egne privatlivspolitikker"
+      }
+    },
+    "children": {
+      "title": "Børns privatliv",
+      "text": "ChainCheck er ikke rettet mod børn under 13 år. Vi indsamler ikke bevidst nogen information fra børn. Da der ikke indsamles personlige data fra nogen bruger, er der ingen risiko for, at børns data bliver kompromitteret."
+    },
+    "changes": {
+      "title": "Ændringer af denne politik",
+      "text": "Vi kan opdatere denne Privatlivspolitik fra tid til anden. Eventuelle ændringer vil blive offentliggjort på denne side med en opdateret ikrafttrædelsesdato. Vi opfordrer dig til at gennemgå denne side regelmæssigt."
+    },
+    "contact": {
+      "title": "Kontakt os",
+      "text": "Hvis du har spørgsmål eller bekymringer vedrørende denne Privatlivspolitik, bedes du kontakte os på:",
+      "email": "privacy@nextia.nl"
+    }
+  }
+}
