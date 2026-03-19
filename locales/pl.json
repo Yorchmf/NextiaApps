@@ -26,6 +26,26 @@
       "download_ios_main": "App Store",
       "coming_soon": "Wkrótce",
       "privacy_link": "Polityka prywatności"
+    },
+    "pawtfolio": {
+      "name": "Pawtfolio",
+      "tagline": "Twój kompletny towarzysz opieki nad zwierzętami",
+      "description": "Pawtfolio to Twój wszechstronny menedżer opieki nad zwierzętami. Twórz szczegółowe profile swoich zwierząt, śledź szczepienia i wizyty u weterynarza, monitoruj trendy zdrowotne i wagowe, zarządzaj wydatkami i przechowuj ważne dokumenty — wszystko w jednym miejscu, wszystko na Twoim urządzeniu.",
+      "features_title": "Funkcje",
+      "features": {
+        "pet_profiles": "Zarządzaj profilami psów, kotów i innych zwierząt ze szczegółami dotyczącymi rasy",
+        "vaccinations": "Śledź harmonogramy szczepień i otrzymuj terminowe przypomnienia",
+        "vet_visits": "Rejestruj wizyty u weterynarza i historię medyczną",
+        "health": "Monitoruj wagę, wskaźniki zdrowia i trendy dobrostanu",
+        "expenses": "Śledź koszty opieki nad zwierzętami i polisy ubezpieczeniowe",
+        "documents": "Przechowuj i organizuj ważne dokumenty swoich zwierząt"
+      },
+      "download_android_small": "POBIERZ Z",
+      "download_android_main": "Google Play",
+      "download_ios_small": "Pobierz z",
+      "download_ios_main": "App Store",
+      "coming_soon": "Wkrótce",
+      "privacy_link": "Polityka prywatności"
     }
   },
   "footer": {
@@ -80,6 +100,63 @@
     "children": {
       "title": "Prywatność dzieci",
       "text": "ChainCheck nie jest skierowany do dzieci poniżej 13 roku życia. Świadomie nie zbieramy żadnych informacji od dzieci. Ponieważ nie są zbierane żadne dane osobowe od żadnego użytkownika, nie ma ryzyka naruszenia danych dzieci."
+    },
+    "changes": {
+      "title": "Zmiany w niniejszej polityce",
+      "text": "Możemy od czasu do czasu aktualizować niniejszą Politykę prywatności. Wszelkie zmiany zostaną opublikowane na tej stronie ze zaktualizowaną datą wejścia w życie. Zachęcamy do okresowego przeglądania tej strony."
+    },
+    "contact": {
+      "title": "Kontakt",
+      "text": "Jeśli masz pytania lub wątpliwości dotyczące niniejszej Polityki prywatności, skontaktuj się z nami pod adresem:",
+      "email": "privacy@nextia.nl"
+    }
+  },
+  "privacy_pawtfolio": {
+    "title": "Polityka prywatności — Pawtfolio",
+    "effective_date": "Data wejścia w życie: 19 marca 2026",
+    "intro": {
+      "title": "Wprowadzenie",
+      "text": "Nextia (\u201Emy\u201D lub \u201Enasz\u201D) stworzyła Pawtfolio jako aplikację mobilną. Niniejsza Polityka prywatności wyjaśnia, w jaki sposób postępujemy z informacjami podczas korzystania z naszej aplikacji. Zobowiązujemy się do ochrony Twojej prywatności — <strong>nie zbieramy, nie przechowujemy ani nie przesyłamy Twoich danych osobowych na nasze serwery</strong>."
+    },
+    "data_collected": {
+      "title": "Informacje wykorzystywane przez aplikację",
+      "text": "Pawtfolio uzyskuje dostęp do określonych funkcji urządzenia wyłącznie w celu zapewnienia swoich podstawowych funkcji. Wszystkie Twoje dane pozostają na Twoim urządzeniu:",
+      "notifications_title": "<strong>Powiadomienia</strong>",
+      "notifications_text": "Wykorzystywane do wysyłania przypomnień o szczepieniach, wizytach u weterynarza i wydarzeniach związanych z opieką nad zwierzętami. Planowanie powiadomień odbywa się wyłącznie na Twoim urządzeniu i żadne dane nie są wysyłane na serwer.",
+      "purchases_title": "<strong>Informacje o zakupach</strong>",
+      "purchases_text": "Jeśli dokonujesz zakupów w aplikacji, transakcja jest przetwarzana przez Apple (App Store) lub Google (Google Play) oraz naszego partnera płatniczego RevenueCat. Nie mamy dostępu do Twoich danych płatniczych. RevenueCat może przetwarzać anonimowy identyfikator użytkownika w celu zarządzania Twoją subskrypcją. Zobacz <a href=\"https://www.revenuecat.com/privacy/\" target=\"_blank\" rel=\"noopener\">Politykę prywatności RevenueCat</a>."
+    },
+    "data_not_collected": {
+      "title": "Informacje, których NIE zbieramy",
+      "text": "Chcemy jasno określić, czego nie robimy:",
+      "items": {
+        "no_personal": "Nie zbieramy imion, adresów e-mail ani żadnych identyfikatorów osobistych",
+        "no_pet_data_server": "Nie wysyłamy danych Twoich zwierząt na żaden serwer",
+        "no_photos_server": "Nie przesyłamy zdjęć ani dokumentów do żadnej usługi zewnętrznej",
+        "no_analytics": "Nie korzystamy z zewnętrznych SDK analitycznych lub reklamowych, które Cię śledzą",
+        "no_sell": "Nie sprzedajemy, nie wynajmujemy ani nie udostępniamy żadnych danych użytkowników"
+      }
+    },
+    "data_storage": {
+      "title": "Przechowywanie &amp; usuwanie danych",
+      "text": "Wszystkie profile Twoich zwierząt, karty zdrowia, dokumenty i ustawienia aplikacji są przechowywane lokalnie na Twoim urządzeniu. Masz pełną kontrolę nad swoimi danymi:",
+      "items": {
+        "delete_app": "Usuń dowolny profil zwierzęcia, kartę lub dokument w aplikacji w dowolnym momencie",
+        "uninstall": "Odinstaluj aplikację, aby usunąć wszystkie powiązane dane z urządzenia",
+        "no_cloud": "Nie prowadzimy żadnej kopii zapasowej Twoich danych w chmurze"
+      }
+    },
+    "third_party": {
+      "title": "Usługi zewnętrzne",
+      "text": "Pawtfolio korzysta z następujących usług zewnętrznych:",
+      "items": {
+        "revenuecat": "<strong>RevenueCat</strong> — zarządza subskrypcjami i zakupami w aplikacji. Przetwarza anonimowe dane transakcyjne. <a href=\"https://www.revenuecat.com/privacy/\" target=\"_blank\" rel=\"noopener\">Polityka prywatności</a>",
+        "apple": "<strong>Apple App Store / Google Play Store</strong> — zajmuje się dystrybucją aplikacji i przetwarzaniem płatności zgodnie z własnymi politykami prywatności"
+      }
+    },
+    "children": {
+      "title": "Prywatność dzieci",
+      "text": "Pawtfolio nie jest skierowane do dzieci poniżej 13 roku życia. Świadomie nie zbieramy żadnych informacji od dzieci. Ponieważ nie są zbierane żadne dane osobowe od żadnego użytkownika, nie ma ryzyka naruszenia danych dzieci."
     },
     "changes": {
       "title": "Zmiany w niniejszej polityce",

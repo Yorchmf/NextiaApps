@@ -26,6 +26,26 @@
       "download_ios_main": "App Store",
       "coming_soon": "Próximamente",
       "privacy_link": "Política de Privacidad"
+    },
+    "pawtfolio": {
+      "name": "Pawtfolio",
+      "tagline": "Tu compañero completo para el cuidado de mascotas",
+      "description": "Pawtfolio es tu gestor integral de cuidado de mascotas. Crea perfiles detallados para tus mascotas, registra vacunaciones y visitas al veterinario, monitorea tendencias de salud y peso, gestiona gastos y almacena documentos importantes — todo en un solo lugar, todo en tu dispositivo.",
+      "features_title": "Características",
+      "features": {
+        "pet_profiles": "Gestiona perfiles de perros, gatos y más con detalles específicos de raza",
+        "vaccinations": "Registra calendarios de vacunación y recibe recordatorios oportunos",
+        "vet_visits": "Registra citas veterinarias e historial médico",
+        "health": "Monitorea peso, métricas de salud y tendencias de bienestar",
+        "expenses": "Controla gastos de cuidado de mascotas y pólizas de seguros",
+        "documents": "Almacena y organiza documentos importantes de tus mascotas"
+      },
+      "download_android_small": "DISPONIBLE EN",
+      "download_android_main": "Google Play",
+      "download_ios_small": "Descárgalo en el",
+      "download_ios_main": "App Store",
+      "coming_soon": "Próximamente",
+      "privacy_link": "Política de Privacidad"
     }
   },
   "footer": {
@@ -80,6 +100,63 @@
     "children": {
       "title": "Privacidad de los menores",
       "text": "ChainCheck no está dirigido a menores de 13 años. No recopilamos conscientemente ninguna información de menores. Dado que no se recopilan datos personales de ningún usuario, no existe riesgo de que los datos de menores se vean comprometidos."
+    },
+    "changes": {
+      "title": "Cambios en esta política",
+      "text": "Podemos actualizar esta Política de Privacidad de vez en cuando. Cualquier cambio será publicado en esta página con una fecha de vigencia actualizada. Te recomendamos revisar esta página periódicamente."
+    },
+    "contact": {
+      "title": "Contáctanos",
+      "text": "Si tienes preguntas o inquietudes sobre esta Política de Privacidad, por favor contáctanos en:",
+      "email": "privacy@nextia.nl"
+    }
+  },
+  "privacy_pawtfolio": {
+    "title": "Política de Privacidad — Pawtfolio",
+    "effective_date": "Fecha de vigencia: 19 de marzo de 2026",
+    "intro": {
+      "title": "Introducción",
+      "text": "Nextia (\"nosotros\" o \"nuestro\") desarrolló Pawtfolio como una aplicación móvil. Esta Política de Privacidad explica cómo gestionamos la información cuando utilizas nuestra app. Estamos comprometidos con la protección de tu privacidad — <strong>no recopilamos, almacenamos ni transmitimos tus datos personales a nuestros servidores</strong>."
+    },
+    "data_collected": {
+      "title": "Información que usa la App",
+      "text": "Pawtfolio accede a ciertas capacidades del dispositivo únicamente para ofrecer sus funciones principales. Todos tus datos permanecen en tu dispositivo:",
+      "notifications_title": "<strong>Notificaciones</strong>",
+      "notifications_text": "Se utilizan para enviarte recordatorios de vacunaciones, citas veterinarias y eventos de cuidado de mascotas. La programación de notificaciones se gestiona completamente en tu dispositivo y no se envían datos a ningún servidor.",
+      "purchases_title": "<strong>Información de compras</strong>",
+      "purchases_text": "Si realizas compras dentro de la app, la transacción es procesada por Apple (App Store) o Google (Google Play) y por nuestro socio de pagos RevenueCat. No tenemos acceso a tus datos de pago. RevenueCat puede procesar un identificador anónimo de usuario para gestionar tu suscripción. Consulta la <a href=\"https://www.revenuecat.com/privacy/\" target=\"_blank\" rel=\"noopener\">Política de Privacidad de RevenueCat</a>."
+    },
+    "data_not_collected": {
+      "title": "Información que NO recopilamos",
+      "text": "Queremos ser claros sobre lo que no hacemos:",
+      "items": {
+        "no_personal": "No recopilamos nombres, direcciones de correo electrónico ni ningún identificador personal",
+        "no_pet_data_server": "No enviamos los datos de tus mascotas a ningún servidor",
+        "no_photos_server": "No subimos fotos ni documentos a ningún servicio externo",
+        "no_analytics": "No utilizamos SDKs de análisis o publicidad de terceros que te rastreen",
+        "no_sell": "No vendemos, alquilamos ni compartimos ningún dato de usuario"
+      }
+    },
+    "data_storage": {
+      "title": "Almacenamiento y eliminación de datos",
+      "text": "Todos los perfiles de tus mascotas, registros de salud, documentos y ajustes de la app se almacenan localmente en tu dispositivo. Tienes control total sobre tus datos:",
+      "items": {
+        "delete_app": "Elimina cualquier perfil de mascota, registro o documento dentro de la app en cualquier momento",
+        "uninstall": "Desinstala la app para eliminar todos los datos asociados de tu dispositivo",
+        "no_cloud": "No mantenemos ninguna copia de seguridad en la nube de tus datos"
+      }
+    },
+    "third_party": {
+      "title": "Servicios de terceros",
+      "text": "Pawtfolio utiliza los siguientes servicios de terceros:",
+      "items": {
+        "revenuecat": "<strong>RevenueCat</strong> — gestiona las suscripciones y compras dentro de la app. Procesa datos de transacciones de forma anónima. <a href=\"https://www.revenuecat.com/privacy/\" target=\"_blank\" rel=\"noopener\">Política de Privacidad</a>",
+        "apple": "<strong>Apple App Store / Google Play Store</strong> — se encarga de la distribución de la app y el procesamiento de pagos de acuerdo con sus propias políticas de privacidad"
+      }
+    },
+    "children": {
+      "title": "Privacidad de los menores",
+      "text": "Pawtfolio no está dirigido a menores de 13 años. No recopilamos conscientemente ninguna información de menores. Dado que no se recopilan datos personales de ningún usuario, no existe riesgo de que los datos de menores se vean comprometidos."
     },
     "changes": {
       "title": "Cambios en esta política",

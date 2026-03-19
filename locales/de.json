@@ -26,6 +26,26 @@
       "download_ios_main": "App Store",
       "coming_soon": "Demnächst verfügbar",
       "privacy_link": "Datenschutzrichtlinie"
+    },
+    "pawtfolio": {
+      "name": "Pawtfolio",
+      "tagline": "Ihr kompletter Begleiter für die Tierpflege",
+      "description": "Pawtfolio ist Ihr All-in-One-Manager für die Tierpflege. Erstellen Sie detaillierte Profile für Ihre Haustiere, verfolgen Sie Impfungen und Tierarztbesuche, überwachen Sie Gesundheits- und Gewichtstrends, verwalten Sie Ausgaben und speichern Sie wichtige Dokumente — alles an einem Ort, alles auf Ihrem Gerät.",
+      "features_title": "Funktionen",
+      "features": {
+        "pet_profiles": "Verwalten Sie Profile für Hunde, Katzen und mehr mit rassenspezifischen Details",
+        "vaccinations": "Verfolgen Sie Impfpläne und erhalten Sie rechtzeitige Erinnerungen",
+        "vet_visits": "Erfassen Sie Tierarzttermine und die medizinische Vorgeschichte",
+        "health": "Überwachen Sie Gewicht, Gesundheitskennzahlen und Wohlbefindenstrends",
+        "expenses": "Verfolgen Sie Tierpflegekosten und Versicherungspolicen",
+        "documents": "Speichern und organisieren Sie wichtige Tierdokumente"
+      },
+      "download_android_small": "JETZT BEI",
+      "download_android_main": "Google Play",
+      "download_ios_small": "Laden im",
+      "download_ios_main": "App Store",
+      "coming_soon": "Demnächst verfügbar",
+      "privacy_link": "Datenschutzrichtlinie"
     }
   },
   "footer": {
@@ -80,6 +100,63 @@
     "children": {
       "title": "Datenschutz für Kinder",
       "text": "ChainCheck richtet sich nicht an Kinder unter 13 Jahren. Wir erheben wissentlich keine Informationen von Kindern. Da von keinem Nutzer personenbezogene Daten erhoben werden, besteht kein Risiko, dass Daten von Kindern gefährdet werden."
+    },
+    "changes": {
+      "title": "Änderungen dieser Richtlinie",
+      "text": "Wir können diese Datenschutzrichtlinie von Zeit zu Zeit aktualisieren. Alle Änderungen werden auf dieser Seite mit einem aktualisierten Gültigkeitsdatum veröffentlicht. Wir empfehlen Ihnen, diese Seite regelmäßig zu überprüfen."
+    },
+    "contact": {
+      "title": "Kontakt",
+      "text": "Wenn Sie Fragen oder Bedenken zu dieser Datenschutzrichtlinie haben, kontaktieren Sie uns bitte unter:",
+      "email": "privacy@nextia.nl"
+    }
+  },
+  "privacy_pawtfolio": {
+    "title": "Datenschutzrichtlinie — Pawtfolio",
+    "effective_date": "Gültig ab: 19. März 2026",
+    "intro": {
+      "title": "Einleitung",
+      "text": "Nextia (\u201Ewir\u201C oder \u201Eunser\u201C) hat Pawtfolio als mobile Anwendung entwickelt. Diese Datenschutzrichtlinie erläutert, wie wir mit Informationen umgehen, wenn Sie unsere App nutzen. Wir verpflichten uns zum Schutz Ihrer Privatsphäre — <strong>wir erheben, speichern oder übermitteln keine Ihrer persönlichen Daten an unsere Server</strong>."
+    },
+    "data_collected": {
+      "title": "Von der App genutzte Informationen",
+      "text": "Pawtfolio greift auf bestimmte Gerätefunktionen ausschließlich zur Bereitstellung der Kernfunktionen zu. Alle Ihre Daten verbleiben auf Ihrem Gerät:",
+      "notifications_title": "<strong>Benachrichtigungen</strong>",
+      "notifications_text": "Werden verwendet, um Ihnen Erinnerungen für Impfungen, Tierarzttermine und Pflegeereignisse zu senden. Die Benachrichtigungsplanung wird vollständig auf Ihrem Gerät durchgeführt und es werden keine Daten an einen Server gesendet.",
+      "purchases_title": "<strong>Kaufinformationen</strong>",
+      "purchases_text": "Wenn Sie In-App-Käufe tätigen, wird die Transaktion von Apple (App Store) oder Google (Google Play) und unserem Zahlungspartner RevenueCat abgewickelt. Wir haben keinen Zugriff auf Ihre Zahlungsdaten. RevenueCat kann eine anonyme App-Benutzer-ID zur Verwaltung Ihres Abonnements verarbeiten. Siehe <a href=\"https://www.revenuecat.com/privacy/\" target=\"_blank\" rel=\"noopener\">Datenschutzrichtlinie von RevenueCat</a>."
+    },
+    "data_not_collected": {
+      "title": "Informationen, die wir NICHT erheben",
+      "text": "Wir möchten klar darlegen, was wir nicht tun:",
+      "items": {
+        "no_personal": "Wir erheben keine Namen, E-Mail-Adressen oder sonstige persönliche Identifikatoren",
+        "no_pet_data_server": "Wir senden Ihre Haustierdaten an keinen Server",
+        "no_photos_server": "Wir laden keine Fotos oder Dokumente auf einen externen Dienst hoch",
+        "no_analytics": "Wir verwenden keine Analyse- oder Werbe-SDKs von Drittanbietern, die Sie verfolgen",
+        "no_sell": "Wir verkaufen, vermieten oder teilen keinerlei Nutzerdaten"
+      }
+    },
+    "data_storage": {
+      "title": "Datenspeicherung &amp; Löschung",
+      "text": "Alle Ihre Haustierprofile, Gesundheitsaufzeichnungen, Dokumente und App-Einstellungen werden lokal auf Ihrem Gerät gespeichert. Sie haben die volle Kontrolle über Ihre Daten:",
+      "items": {
+        "delete_app": "Löschen Sie jederzeit beliebige Haustierprofile, Aufzeichnungen oder Dokumente in der App",
+        "uninstall": "Deinstallieren Sie die App, um alle zugehörigen Daten von Ihrem Gerät zu entfernen",
+        "no_cloud": "Wir unterhalten kein Cloud-Backup Ihrer Daten"
+      }
+    },
+    "third_party": {
+      "title": "Drittanbieterdienste",
+      "text": "Pawtfolio nutzt die folgenden Drittanbieterdienste:",
+      "items": {
+        "revenuecat": "<strong>RevenueCat</strong> — verwaltet In-App-Abonnements und -Käufe. Verarbeitet anonyme Transaktionsdaten. <a href=\"https://www.revenuecat.com/privacy/\" target=\"_blank\" rel=\"noopener\">Datenschutzrichtlinie</a>",
+        "apple": "<strong>Apple App Store / Google Play Store</strong> — übernimmt die App-Verteilung und Zahlungsabwicklung gemäß den eigenen Datenschutzrichtlinien"
+      }
+    },
+    "children": {
+      "title": "Datenschutz für Kinder",
+      "text": "Pawtfolio richtet sich nicht an Kinder unter 13 Jahren. Wir erheben wissentlich keine Informationen von Kindern. Da von keinem Nutzer personenbezogene Daten erhoben werden, besteht kein Risiko, dass Daten von Kindern gefährdet werden."
     },
     "changes": {
       "title": "Änderungen dieser Richtlinie",

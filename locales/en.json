@@ -26,6 +26,26 @@
       "download_ios_main": "App Store",
       "coming_soon": "Coming Soon",
       "privacy_link": "Privacy Policy"
+    },
+    "pawtfolio": {
+      "name": "Pawtfolio",
+      "tagline": "Your complete pet care companion",
+      "description": "Pawtfolio is your all-in-one pet care manager. Create detailed profiles for your pets, track vaccinations and vet visits, monitor health and weight trends, manage expenses, and store important documents — all in one place, all on your device.",
+      "features_title": "Features",
+      "features": {
+        "pet_profiles": "Manage profiles for dogs, cats, and more with breed-specific details",
+        "vaccinations": "Track vaccination schedules and get timely reminders",
+        "vet_visits": "Log vet appointments and medical history",
+        "health": "Monitor weight, health metrics, and wellness trends",
+        "expenses": "Track pet care costs and insurance policies",
+        "documents": "Store and organize important pet documents"
+      },
+      "download_android_small": "GET IT ON",
+      "download_android_main": "Google Play",
+      "download_ios_small": "Download on the",
+      "download_ios_main": "App Store",
+      "coming_soon": "Coming Soon",
+      "privacy_link": "Privacy Policy"
     }
   },
   "footer": {
@@ -80,6 +100,63 @@
     "children": {
       "title": "Children's Privacy",
       "text": "ChainCheck is not directed at children under the age of 13. We do not knowingly collect any information from children. Since no personal data is collected from any user, there is no risk of children's data being compromised."
+    },
+    "changes": {
+      "title": "Changes to This Policy",
+      "text": "We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated effective date. We encourage you to review this page periodically."
+    },
+    "contact": {
+      "title": "Contact Us",
+      "text": "If you have questions or concerns about this Privacy Policy, please contact us at:",
+      "email": "privacy@nextia.nl"
+    }
+  },
+  "privacy_pawtfolio": {
+    "title": "Privacy Policy — Pawtfolio",
+    "effective_date": "Effective date: March 19, 2026",
+    "intro": {
+      "title": "Introduction",
+      "text": "Nextia (\"we\", \"us\", or \"our\") built Pawtfolio as a mobile application. This Privacy Policy explains how we handle information when you use our app. We are committed to protecting your privacy — <strong>we do not collect, store, or transmit your personal data to our servers</strong>."
+    },
+    "data_collected": {
+      "title": "Information the App Uses",
+      "text": "Pawtfolio accesses certain device capabilities solely to provide its core features. All of your data remains on your device:",
+      "notifications_title": "<strong>Notifications</strong>",
+      "notifications_text": "Used to send you reminders for vaccinations, vet appointments, and pet care events. Notification scheduling is handled entirely on your device and no data is sent to any server.",
+      "purchases_title": "<strong>Purchase Information</strong>",
+      "purchases_text": "If you make in-app purchases, the transaction is processed by Apple (App Store) or Google (Google Play) and by our payment partner RevenueCat. We do not have access to your payment details. RevenueCat may process an anonymous app user ID to manage your subscription. See <a href=\"https://www.revenuecat.com/privacy/\" target=\"_blank\" rel=\"noopener\">RevenueCat's Privacy Policy</a>."
+    },
+    "data_not_collected": {
+      "title": "Information We Do NOT Collect",
+      "text": "We want to be clear about what we do not do:",
+      "items": {
+        "no_personal": "We do not collect names, email addresses, or any personal identifiers",
+        "no_pet_data_server": "We do not send your pet data to any server",
+        "no_photos_server": "We do not upload photos or documents to any external service",
+        "no_analytics": "We do not use third-party analytics or advertising SDKs that track you",
+        "no_sell": "We do not sell, rent, or share any user data"
+      }
+    },
+    "data_storage": {
+      "title": "Data Storage &amp; Deletion",
+      "text": "All your pet profiles, health records, documents, and app settings are stored locally on your device. You have full control over your data:",
+      "items": {
+        "delete_app": "Delete any pet profile, record, or document within the app at any time",
+        "uninstall": "Uninstall the app to remove all associated data from your device",
+        "no_cloud": "We do not maintain any cloud backup of your data"
+      }
+    },
+    "third_party": {
+      "title": "Third-Party Services",
+      "text": "Pawtfolio uses the following third-party services:",
+      "items": {
+        "revenuecat": "<strong>RevenueCat</strong> — manages in-app subscriptions and purchases. Processes anonymous transaction data. <a href=\"https://www.revenuecat.com/privacy/\" target=\"_blank\" rel=\"noopener\">Privacy Policy</a>",
+        "apple": "<strong>Apple App Store / Google Play Store</strong> — handles app distribution and payment processing according to their own privacy policies"
+      }
+    },
+    "children": {
+      "title": "Children's Privacy",
+      "text": "Pawtfolio is not directed at children under the age of 13. We do not knowingly collect any information from children. Since no personal data is collected from any user, there is no risk of children's data being compromised."
     },
     "changes": {
       "title": "Changes to This Policy",

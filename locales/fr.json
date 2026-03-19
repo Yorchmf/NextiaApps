@@ -26,6 +26,26 @@
       "download_ios_main": "App Store",
       "coming_soon": "Bientôt disponible",
       "privacy_link": "Politique de confidentialité"
+    },
+    "pawtfolio": {
+      "name": "Pawtfolio",
+      "tagline": "Votre compagnon complet pour les soins de vos animaux",
+      "description": "Pawtfolio est votre gestionnaire de soins animaliers tout-en-un. Créez des profils détaillés pour vos animaux, suivez les vaccinations et visites vétérinaires, surveillez les tendances de santé et de poids, gérez les dépenses et conservez les documents importants — le tout en un seul endroit, sur votre appareil.",
+      "features_title": "Fonctionnalités",
+      "features": {
+        "pet_profiles": "Gérez les profils de chiens, chats et plus avec des détails spécifiques à la race",
+        "vaccinations": "Suivez les calendriers de vaccination et recevez des rappels opportuns",
+        "vet_visits": "Enregistrez les rendez-vous vétérinaires et l'historique médical",
+        "health": "Surveillez le poids, les indicateurs de santé et les tendances de bien-être",
+        "expenses": "Suivez les coûts de soins des animaux et les polices d'assurance",
+        "documents": "Stockez et organisez les documents importants de vos animaux"
+      },
+      "download_android_small": "TÉLÉCHARGEZ SUR",
+      "download_android_main": "Google Play",
+      "download_ios_small": "Téléchargez dans l'",
+      "download_ios_main": "App Store",
+      "coming_soon": "Bientôt disponible",
+      "privacy_link": "Politique de confidentialité"
     }
   },
   "footer": {
@@ -80,6 +100,63 @@
     "children": {
       "title": "Confidentialité des enfants",
       "text": "ChainCheck ne s'adresse pas aux enfants de moins de 13 ans. Nous ne collectons sciemment aucune information auprès d'enfants. Étant donné qu'aucune donnée personnelle n'est collectée auprès d'aucun utilisateur, il n'y a aucun risque que les données d'enfants soient compromises."
+    },
+    "changes": {
+      "title": "Modifications de cette politique",
+      "text": "Nous pouvons mettre à jour cette Politique de confidentialité de temps à autre. Toute modification sera publiée sur cette page avec une date d'entrée en vigueur mise à jour. Nous vous encourageons à consulter cette page régulièrement."
+    },
+    "contact": {
+      "title": "Nous contacter",
+      "text": "Si vous avez des questions ou des préoccupations concernant cette Politique de confidentialité, veuillez nous contacter à :",
+      "email": "privacy@nextia.nl"
+    }
+  },
+  "privacy_pawtfolio": {
+    "title": "Politique de confidentialité — Pawtfolio",
+    "effective_date": "Date d'entrée en vigueur : 19 mars 2026",
+    "intro": {
+      "title": "Introduction",
+      "text": "Nextia (« nous » ou « notre ») a développé Pawtfolio en tant qu'application mobile. Cette Politique de confidentialité explique comment nous gérons les informations lorsque vous utilisez notre application. Nous nous engageons à protéger votre vie privée — <strong>nous ne collectons, ne stockons ni ne transmettons vos données personnelles vers nos serveurs</strong>."
+    },
+    "data_collected": {
+      "title": "Informations utilisées par l'application",
+      "text": "Pawtfolio accède à certaines fonctionnalités de l'appareil uniquement pour fournir ses fonctionnalités principales. Toutes vos données restent sur votre appareil :",
+      "notifications_title": "<strong>Notifications</strong>",
+      "notifications_text": "Utilisées pour vous envoyer des rappels de vaccinations, rendez-vous vétérinaires et événements de soins pour vos animaux. La programmation des notifications est gérée entièrement sur votre appareil et aucune donnée n'est envoyée à un serveur.",
+      "purchases_title": "<strong>Informations d'achat</strong>",
+      "purchases_text": "Si vous effectuez des achats intégrés, la transaction est traitée par Apple (App Store) ou Google (Google Play) et par notre partenaire de paiement RevenueCat. Nous n'avons pas accès à vos informations de paiement. RevenueCat peut traiter un identifiant utilisateur anonyme pour gérer votre abonnement. Consultez la <a href=\"https://www.revenuecat.com/privacy/\" target=\"_blank\" rel=\"noopener\">Politique de confidentialité de RevenueCat</a>."
+    },
+    "data_not_collected": {
+      "title": "Informations que nous NE collectons PAS",
+      "text": "Nous souhaitons être clairs sur ce que nous ne faisons pas :",
+      "items": {
+        "no_personal": "Nous ne collectons pas de noms, d'adresses e-mail ou d'identifiants personnels",
+        "no_pet_data_server": "Nous n'envoyons pas les données de vos animaux à un quelconque serveur",
+        "no_photos_server": "Nous ne téléversons pas de photos ou documents vers un service externe",
+        "no_analytics": "Nous n'utilisons pas de SDK d'analyse ou de publicité tiers qui vous pistent",
+        "no_sell": "Nous ne vendons, ne louons ni ne partageons aucune donnée utilisateur"
+      }
+    },
+    "data_storage": {
+      "title": "Stockage et suppression des données",
+      "text": "Tous les profils de vos animaux, dossiers de santé, documents et paramètres de l'application sont stockés localement sur votre appareil. Vous avez un contrôle total sur vos données :",
+      "items": {
+        "delete_app": "Supprimez n'importe quel profil d'animal, dossier ou document dans l'application à tout moment",
+        "uninstall": "Désinstallez l'application pour supprimer toutes les données associées de votre appareil",
+        "no_cloud": "Nous ne conservons aucune sauvegarde de vos données dans le cloud"
+      }
+    },
+    "third_party": {
+      "title": "Services tiers",
+      "text": "Pawtfolio utilise les services tiers suivants :",
+      "items": {
+        "revenuecat": "<strong>RevenueCat</strong> — gère les abonnements et achats intégrés. Traite des données de transaction anonymes. <a href=\"https://www.revenuecat.com/privacy/\" target=\"_blank\" rel=\"noopener\">Politique de confidentialité</a>",
+        "apple": "<strong>Apple App Store / Google Play Store</strong> — gère la distribution de l'application et le traitement des paiements conformément à leurs propres politiques de confidentialité"
+      }
+    },
+    "children": {
+      "title": "Confidentialité des enfants",
+      "text": "Pawtfolio ne s'adresse pas aux enfants de moins de 13 ans. Nous ne collectons sciemment aucune information auprès d'enfants. Étant donné qu'aucune donnée personnelle n'est collectée auprès d'aucun utilisateur, il n'y a aucun risque que les données d'enfants soient compromises."
     },
     "changes": {
       "title": "Modifications de cette politique",

@@ -26,6 +26,26 @@
       "download_ios_main": "App Store",
       "coming_soon": "Tulossa pian",
       "privacy_link": "Tietosuojakäytäntö"
+    },
+    "pawtfolio": {
+      "name": "Pawtfolio",
+      "tagline": "Täydellinen kumppanisi lemmikkien hoitoon",
+      "description": "Pawtfolio on all-in-one-lemmikkien hoitomanagerisi. Luo yksityiskohtaiset profiilit lemmikeillesi, seuraa rokotuksia ja eläinlääkärikäyntejä, tarkkaile terveys- ja painotrendejä, hallitse kuluja ja säilytä tärkeitä asiakirjoja — kaikki yhdessä paikassa, kaikki laitteellasi.",
+      "features_title": "Ominaisuudet",
+      "features": {
+        "pet_profiles": "Hallitse profiileja koirille, kissoille ja muille rotukohtaisilla tiedoilla",
+        "vaccinations": "Seuraa rokotusaikatauluja ja saa oikea-aikaiset muistutukset",
+        "vet_visits": "Kirjaa eläinlääkärikäynnit ja sairaushistoria",
+        "health": "Seuraa painoa, terveysmittareita ja hyvinvointitrendejä",
+        "expenses": "Seuraa lemmikkien hoitokuluja ja vakuutuksia",
+        "documents": "Säilytä ja järjestä tärkeitä lemmikkidokumentteja"
+      },
+      "download_android_small": "HANKI SE",
+      "download_android_main": "Google Play",
+      "download_ios_small": "Lataa",
+      "download_ios_main": "App Store",
+      "coming_soon": "Tulossa pian",
+      "privacy_link": "Tietosuojakäytäntö"
     }
   },
   "footer": {
@@ -80,6 +100,63 @@
     "children": {
       "title": "Lasten tietosuoja",
       "text": "ChainCheck ei ole suunnattu alle 13-vuotiaille lapsille. Emme tietoisesti kerää mitään tietoja lapsilta. Koska keneltäkään käyttäjältä ei kerätä henkilötietoja, lasten tietojen vaarantumiselle ei ole riskiä."
+    },
+    "changes": {
+      "title": "Muutokset tähän käytäntöön",
+      "text": "Saatamme päivittää tätä Tietosuojakäytäntöä aika ajoin. Mahdolliset muutokset julkaistaan tällä sivulla päivitetyllä voimaantulopäivämäärällä. Suosittelemme tarkistamaan tämän sivun säännöllisesti."
+    },
+    "contact": {
+      "title": "Ota yhteyttä",
+      "text": "Jos sinulla on kysyttävää tai huolenaiheita tästä Tietosuojakäytännöstä, ota meihin yhteyttä osoitteessa:",
+      "email": "privacy@nextia.nl"
+    }
+  },
+  "privacy_pawtfolio": {
+    "title": "Tietosuojakäytäntö — Pawtfolio",
+    "effective_date": "Voimaantulopäivä: 19. maaliskuuta 2026",
+    "intro": {
+      "title": "Johdanto",
+      "text": "Nextia (\"me\" tai \"meidän\") on kehittänyt Pawtfolio-mobiilisovelluksen. Tämä Tietosuojakäytäntö selittää, miten käsittelemme tietoja, kun käytät sovellustamme. Olemme sitoutuneet suojaamaan yksityisyyttäsi — <strong>emme kerää, tallenna tai siirrä henkilötietojasi palvelimillemme</strong>."
+    },
+    "data_collected": {
+      "title": "Sovelluksen käyttämät tiedot",
+      "text": "Pawtfolio käyttää tiettyjä laitteen toimintoja ainoastaan ydintoimintojensa tarjoamiseen. Kaikki tietosi pysyvät laitteellasi:",
+      "notifications_title": "<strong>Ilmoitukset</strong>",
+      "notifications_text": "Käytetään lähettämään muistutuksia rokotuksista, eläinlääkärikäynneistä ja lemmikkien hoitotapahtumista. Ilmoitusten ajastus käsitellään kokonaan laitteellasi eikä tietoja lähetetä millekään palvelimelle.",
+      "purchases_title": "<strong>Ostotiedot</strong>",
+      "purchases_text": "Jos teet sovelluksen sisäisiä ostoksia, tapahtuman käsittelee Apple (App Store) tai Google (Google Play) sekä maksukumppanimme RevenueCat. Meillä ei ole pääsyä maksutietoihisi. RevenueCat voi käsitellä anonyymin sovelluksen käyttäjätunnuksen tilauksesi hallintaa varten. Katso <a href=\"https://www.revenuecat.com/privacy/\" target=\"_blank\" rel=\"noopener\">RevenueCatin tietosuojakäytäntö</a>."
+    },
+    "data_not_collected": {
+      "title": "Tiedot, joita EMME kerää",
+      "text": "Haluamme olla selkeitä siitä, mitä emme tee:",
+      "items": {
+        "no_personal": "Emme kerää nimiä, sähköpostiosoitteita tai mitään henkilökohtaisia tunnisteita",
+        "no_pet_data_server": "Emme lähetä lemmikkitietojasi millekään palvelimelle",
+        "no_photos_server": "Emme lataa valokuvia tai asiakirjoja mihinkään ulkoiseen palveluun",
+        "no_analytics": "Emme käytä kolmannen osapuolen analytiikka- tai mainonta-SDK:ita, jotka seuraavat sinua",
+        "no_sell": "Emme myy, vuokraa tai jaa mitään käyttäjätietoja"
+      }
+    },
+    "data_storage": {
+      "title": "Tietojen tallennus &amp; poistaminen",
+      "text": "Kaikki lemmikkiprofiilisi, terveystiedot, asiakirjat ja sovelluksen asetukset tallennetaan paikallisesti laitteellesi. Sinulla on täysi hallinta tietoihisi:",
+      "items": {
+        "delete_app": "Poista mikä tahansa lemmikkiprofiili, tietue tai asiakirja sovelluksesta milloin tahansa",
+        "uninstall": "Poista sovellus poistaaksesi kaikki siihen liittyvät tiedot laitteeltasi",
+        "no_cloud": "Emme ylläpidä mitään pilvivarmistusta tiedoistasi"
+      }
+    },
+    "third_party": {
+      "title": "Kolmannen osapuolen palvelut",
+      "text": "Pawtfolio käyttää seuraavia kolmannen osapuolen palveluita:",
+      "items": {
+        "revenuecat": "<strong>RevenueCat</strong> — hallitsee sovelluksen sisäisiä tilauksia ja ostoksia. Käsittelee anonyymiä tapahtumatietoa. <a href=\"https://www.revenuecat.com/privacy/\" target=\"_blank\" rel=\"noopener\">Tietosuojakäytäntö</a>",
+        "apple": "<strong>Apple App Store / Google Play Store</strong> — hoitaa sovelluksen jakelun ja maksujen käsittelyn omien tietosuojakäytäntöjensä mukaisesti"
+      }
+    },
+    "children": {
+      "title": "Lasten tietosuoja",
+      "text": "Pawtfolio ei ole suunnattu alle 13-vuotiaille lapsille. Emme tietoisesti kerää mitään tietoja lapsilta. Koska keneltäkään käyttäjältä ei kerätä henkilötietoja, lasten tietojen vaarantumiselle ei ole riskiä."
     },
     "changes": {
       "title": "Muutokset tähän käytäntöön",

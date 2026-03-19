@@ -26,6 +26,26 @@
       "download_ios_main": "App Store",
       "coming_soon": "Kommer snart",
       "privacy_link": "Privatlivspolitik"
+    },
+    "pawtfolio": {
+      "name": "Pawtfolio",
+      "tagline": "Din komplette følgesvend til kæledyrspleje",
+      "description": "Pawtfolio er din alt-i-én manager til kæledyrspleje. Opret detaljerede profiler for dine kæledyr, følg vaccinationer og dyrlægebesøg, overvåg sundheds- og vægttrends, administrer udgifter og opbevar vigtige dokumenter — alt på ét sted, alt på din enhed.",
+      "features_title": "Funktioner",
+      "features": {
+        "pet_profiles": "Administrer profiler for hunde, katte og mere med racespecifikke detaljer",
+        "vaccinations": "Følg vaccinationsplaner og få rettidige påmindelser",
+        "vet_visits": "Registrer dyrlægeaftaler og medicinsk historik",
+        "health": "Overvåg vægt, sundhedsindikatorer og velværetrends",
+        "expenses": "Følg kæledyrsplejeudgifter og forsikringspolicer",
+        "documents": "Opbevar og organiser vigtige kæledyrsdokumenter"
+      },
+      "download_android_small": "HENT DEN PÅ",
+      "download_android_main": "Google Play",
+      "download_ios_small": "Hent den i",
+      "download_ios_main": "App Store",
+      "coming_soon": "Kommer snart",
+      "privacy_link": "Privatlivspolitik"
     }
   },
   "footer": {
@@ -80,6 +100,63 @@
     "children": {
       "title": "Børns privatliv",
       "text": "ChainCheck er ikke rettet mod børn under 13 år. Vi indsamler ikke bevidst nogen information fra børn. Da der ikke indsamles personlige data fra nogen bruger, er der ingen risiko for, at børns data bliver kompromitteret."
+    },
+    "changes": {
+      "title": "Ændringer af denne politik",
+      "text": "Vi kan opdatere denne Privatlivspolitik fra tid til anden. Eventuelle ændringer vil blive offentliggjort på denne side med en opdateret ikrafttrædelsesdato. Vi opfordrer dig til at gennemgå denne side regelmæssigt."
+    },
+    "contact": {
+      "title": "Kontakt os",
+      "text": "Hvis du har spørgsmål eller bekymringer vedrørende denne Privatlivspolitik, bedes du kontakte os på:",
+      "email": "privacy@nextia.nl"
+    }
+  },
+  "privacy_pawtfolio": {
+    "title": "Privatlivspolitik — Pawtfolio",
+    "effective_date": "Ikrafttrædelsesdato: 19. marts 2026",
+    "intro": {
+      "title": "Introduktion",
+      "text": "Nextia (\"vi\" eller \"vores\") har udviklet Pawtfolio som en mobilapplikation. Denne Privatlivspolitik forklarer, hvordan vi håndterer information, når du bruger vores app. Vi er forpligtet til at beskytte dit privatliv — <strong>vi indsamler, lagrer eller overfører ikke dine personlige data til vores servere</strong>."
+    },
+    "data_collected": {
+      "title": "Information appen bruger",
+      "text": "Pawtfolio tilgår visse enhedsfunktioner udelukkende for at levere sine kernefunktioner. Alle dine data forbliver på din enhed:",
+      "notifications_title": "<strong>Notifikationer</strong>",
+      "notifications_text": "Bruges til at sende dig påmindelser om vaccinationer, dyrlægeaftaler og kæledyrsplejebegivenheder. Notifikationsplanlægning håndteres udelukkende på din enhed, og ingen data sendes til nogen server.",
+      "purchases_title": "<strong>Købsinformation</strong>",
+      "purchases_text": "Hvis du foretager køb i appen, behandles transaktionen af Apple (App Store) eller Google (Google Play) og af vores betalingspartner RevenueCat. Vi har ikke adgang til dine betalingsoplysninger. RevenueCat kan behandle et anonymt app-bruger-ID for at administrere dit abonnement. Se <a href=\"https://www.revenuecat.com/privacy/\" target=\"_blank\" rel=\"noopener\">RevenueCats privatlivspolitik</a>."
+    },
+    "data_not_collected": {
+      "title": "Information vi IKKE indsamler",
+      "text": "Vi ønsker at være tydelige om, hvad vi ikke gør:",
+      "items": {
+        "no_personal": "Vi indsamler ikke navne, e-mailadresser eller nogen personlige identifikatorer",
+        "no_pet_data_server": "Vi sender ikke dine kæledyrsdata til nogen server",
+        "no_photos_server": "Vi uploader ikke fotos eller dokumenter til nogen ekstern tjeneste",
+        "no_analytics": "Vi bruger ikke tredjeparts analyse- eller reklame-SDK'er, der sporer dig",
+        "no_sell": "Vi sælger, udlejer eller deler ikke nogen brugerdata"
+      }
+    },
+    "data_storage": {
+      "title": "Datalagring &amp; sletning",
+      "text": "Alle dine kæledyrsprofiler, sundhedsregistreringer, dokumenter og appindstillinger lagres lokalt på din enhed. Du har fuld kontrol over dine data:",
+      "items": {
+        "delete_app": "Slet enhver kæledyrsprofil, registrering eller dokument i appen når som helst",
+        "uninstall": "Afinstaller appen for at fjerne alle tilknyttede data fra din enhed",
+        "no_cloud": "Vi opbevarer ingen cloud-backup af dine data"
+      }
+    },
+    "third_party": {
+      "title": "Tredjepartstjenester",
+      "text": "Pawtfolio bruger følgende tredjepartstjenester:",
+      "items": {
+        "revenuecat": "<strong>RevenueCat</strong> — administrerer abonnementer og køb i appen. Behandler anonyme transaktionsdata. <a href=\"https://www.revenuecat.com/privacy/\" target=\"_blank\" rel=\"noopener\">Privatlivspolitik</a>",
+        "apple": "<strong>Apple App Store / Google Play Store</strong> — håndterer app-distribution og betalingsbehandling i henhold til deres egne privatlivspolitikker"
+      }
+    },
+    "children": {
+      "title": "Børns privatliv",
+      "text": "Pawtfolio er ikke rettet mod børn under 13 år. Vi indsamler ikke bevidst nogen information fra børn. Da der ikke indsamles personlige data fra nogen bruger, er der ingen risiko for, at børns data bliver kompromitteret."
     },
     "changes": {
       "title": "Ændringer af denne politik",
